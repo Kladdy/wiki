@@ -43,4 +43,4 @@ sphinx:
     html_theme_options:
       sidebar_hide_name: false
       navigation_with_keys: true
-      announcement: "This site is currently under construction 🤠"
+      # announcement: "This site is currently under construction 🤠"
