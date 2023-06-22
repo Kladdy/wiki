@@ -1,0 +1,16 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "cmd": "conda activate wiki",
+                "match": ".*",
+                "isAsync": false
+            },
+            {
+                "cmd": "jupyter-book build wiki/",
+                "match": ".*",
+                "isAsync": false
+            }
+        ]
+    }
+}
