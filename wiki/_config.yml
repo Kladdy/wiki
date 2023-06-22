@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title                       : wiki  # The title of the book. Will be placed in the left navbar.
+title                       : Sigfrid Stjärnholm's Wiki  # The title of the book. Will be placed in the left navbar.
 author                      : Sigfrid Stjärnholm  # The author of the book
 copyright                   : "2023"  # Copyright year to be placed in the footer
-logo                        : logo.png  # A path to the book logo
+logo                        : img/logo.png  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -33,9 +33,14 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 # html:
+  # search_bar_text:
   # use_issues_button: true
   # use_repository_button: true
 
 sphinx:
   config:
     html_theme: furo
+    html_theme_options:
+      sidebar_hide_name: false
+      navigation_with_keys: true
+      announcement: "This site is currently under construction 🤠"
