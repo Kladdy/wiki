@@ -2,8 +2,15 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+root: index
+parts:
+  - caption: Tech 👨‍💻
+    chapters:
+    - file: tech/websites
+  - caption: Physics 🚀 
+    chapters:
+    - file: notebooks
+# chapters:
+# - file: markdown
+# - file: notebooks
+# - file: markdown-notebooks
