@@ -31,6 +31,11 @@ jobs:
       run: |
         jupyter-book build wiki
 
+    # Create CNAME file
+    - name: Create CNAME file
+      run: |
+        echo "wiki.stjarnholm.com" > wiki/_build/html/CNAME
+
     # Deploy the book's HTML to gh-pages branch
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.6.1
