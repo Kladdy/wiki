@@ -1,8 +1,8 @@
 # Websites
 
-## Mine
+Listed below are the websites that I manage.
 
-<!-- , , BAR (COMING SOON), IFLOAT -->
+## Mine
 
 <!-- PERSONAL -->
 ```{card} Sigfrid's Personal Website
@@ -76,8 +76,6 @@ My personal website with my CV and blog.
 ``` -->
 
 ## Others, That I Host
-
-<!-- , , , SEQAB, ,  -->
 
 <!-- MENTIPHY -->
 ```{card} mentiphy
