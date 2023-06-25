@@ -67,6 +67,15 @@ A website outlining the iFloat project, which consisted of partaking in the Upps
 [ifloat.stjarnholm.com](https://ifloat.stjarnholm.com) - Launched in April 2022
 ```
 
+<!-- WIKI -->
+```{card} Sigfrid Stjärnholm's Wiki
+:link: https://wiki.stjarnholm.com
+
+My personal Wiki, which is the website you are currently visiting.
++++
+[wiki.stjarnholm.com](https://wiki.stjarnholm.com) - Launched in June 2023
+```
+
 <!-- ```{card} Sigfrid's Personal Website
 :link: https://sigfrid.stjarnholm.com
 
@@ -83,7 +92,7 @@ My personal website with my CV and blog.
 
 A website for one of my consulting clients, mentiphy. The website hosts teaching material for physics students in Swedish gymnasium, among other target groups.
 +++
-[mentiphy.se](https://mentiphy.se)
+[mentiphy.se](https://mentiphy.se) - Launched in April 2023
 ```
 
 <!-- FROSSARBO -->
@@ -92,7 +101,7 @@ A website for one of my consulting clients, mentiphy. The website hosts teaching
 
 A website for one of my consulting clients, Frossarbo Ängar. The website is for a rental property in the countryside of Uppsala, Sweden.
 +++
-[frossarbo.com](https://frossarbo.com)
+[frossarbo.com](https://frossarbo.com) - Launched in August 2022
 ```
 
 <!-- SEQAB -->
@@ -101,7 +110,7 @@ A website for one of my consulting clients, Frossarbo Ängar. The website is for
 
 A website for one of my consulting clients, Stjärnholm Equestrian. The website is for a horse stable in Boden, Sweden.
 +++
-[stalls.se](https://stalls.se)
+[stalls.se](https://stalls.se) - Launched in February 2022
 ```
 
 <!-- SMAB -->
@@ -110,7 +119,7 @@ A website for one of my consulting clients, Stjärnholm Equestrian. The website 
 
 A website for one of my consulting clients, Stjärnholm Medical. The website is for a medical consulting company in Boden, Sweden.
 +++
-[stjarnholmmedical.se](https://stjarnholmmedical.se)
+[stjarnholmmedical.se](https://stjarnholmmedical.se) - Launched in January 2022
 ```
 
 <!-- SMAHOPP -->
@@ -119,7 +128,7 @@ A website for one of my consulting clients, Stjärnholm Medical. The website is 
 
 A website for one of my consulting clients, Småhopp. The website is for a daycare in Boden, Sweden.
 +++
-[smahopp.se](https://smahopp.se)
+[smahopp.se](https://smahopp.se) - Launched in January 2022
 ```
 
 <!-- WILLIAM -->
@@ -128,7 +137,7 @@ A website for one of my consulting clients, Småhopp. The website is for a dayca
 
 My brother's personal website with his CV.
 +++
-[william.stjarnholm.com](https://william.stjarnholm.com)
+[william.stjarnholm.com](https://william.stjarnholm.com) - Launched in February 2023
 ```
 
 <!-- ```{card} Sigfrid's Personal Website
