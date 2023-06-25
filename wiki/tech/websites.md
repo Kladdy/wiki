@@ -90,7 +90,7 @@ My personal website with my CV and blog.
 ```{card} mentiphy
 :link: https://mentiphy.se
 
-A website for one of my consulting clients, mentiphy. The website hosts teaching material for physics students in Swedish gymnasium, among other target groups.
+A website for one of my consulting clients, mentiphy. The website hosts teaching material for physics students in Swedish gymnasium, among other target audiences.
 +++
 [mentiphy.se](https://mentiphy.se) - Launched in April 2023
 ```
@@ -123,10 +123,10 @@ A website for one of my consulting clients, Stjärnholm Medical. The website is 
 ```
 
 <!-- SMAHOPP -->
-```{card} Småhopp
+```{card} Små Hopp
 :link: https://smahopp.se
 
-A website for one of my consulting clients, Småhopp. The website is for a daycare in Boden, Sweden.
+A website for one of my consulting clients, Små Hopp. The website is for a daycare in Boden, Sweden.
 +++
 [smahopp.se](https://smahopp.se) - Launched in January 2022
 ```
