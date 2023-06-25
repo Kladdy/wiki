@@ -80,10 +80,10 @@ My personal website with my CV and blog.
 <!-- , , , SEQAB, ,  -->
 
 <!-- MENTIPHY -->
-```{card} Mentiphy
+```{card} mentiphy
 :link: https://mentiphy.se
 
-A website for one of my consulting clients, Mentiphy. The website hosts teaching material for physics students in Swedish gymnasium, among other target groups.
+A website for one of my consulting clients, mentiphy. The website hosts teaching material for physics students in Swedish gymnasium, among other target groups.
 +++
 [https://mentiphy.se](https://mentiphy.se)
 ```
