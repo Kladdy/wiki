@@ -81,11 +81,11 @@ My personal website with my CV and blog.
 
 <!-- MENTIPHY -->
 ```{card} Mentiphy
-:link: https://mentiphy.stjarnholm.com
+:link: https://mentiphy.se
 
 A website for one of my consulting clients, Mentiphy. The website hosts teaching material for physics students in Swedish gymnasium, among other target groups.
 +++
-[https://mentiphy.stjarnholm.com](https://mentiphy.stjarnholm.com)
+[https://mentiphy.se](https://mentiphy.se)
 ```
 
 <!-- FROSSARBO -->
