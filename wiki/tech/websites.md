@@ -10,7 +10,7 @@
 
 My personal website with my CV and blog.
 +++
-[https://sigfrid.stjarnholm.com](https://sigfrid.stjarnholm.com) - Launched in January 2023
+[sigfrid.stjarnholm.com](https://sigfrid.stjarnholm.com) - Launched in January 2023
 ```
 
 <!-- CONSULTING -->
@@ -19,7 +19,7 @@ My personal website with my CV and blog.
 
 The website of my consulting company, Stjärnholm Consulting.
 +++
-[https://consulting.stjarnholm.com](https://consulting.stjarnholm.com) - Launched in April 2022
+[consulting.stjarnholm.com](https://consulting.stjarnholm.com) - Launched in April 2022
 ```
 
 <!-- QUIZGPT -->
@@ -28,7 +28,7 @@ The website of my consulting company, Stjärnholm Consulting.
 
 A website where you can generate quizzes within any subject using ChatGPT, and easily export them to Kahoot.
 +++
-[https://quiz.stjarnholm.com](https://quiz.stjarnholm.com) - Launched in December 2022
+[quiz.stjarnholm.com](https://quiz.stjarnholm.com) - Launched in December 2022
 ```
 
 <!-- CHICAGO -->
@@ -37,7 +37,7 @@ A website where you can generate quizzes within any subject using ChatGPT, and e
 
 A website to keep track of Chicago/Poängpoker games.
 +++
-[https://chicago.stjarnholm.com](https://chicago.stjarnholm.com) - Launched in January 2023
+[chicago.stjarnholm.com](https://chicago.stjarnholm.com) - Launched in January 2023
 ```
 
 <!-- MARSKALK -->
@@ -46,7 +46,7 @@ A website to keep track of Chicago/Poängpoker games.
 
 A website for the Marskalk app, which is a tool that helps you create name tags for your events, as well as creating seating lists and drink tickets.
 +++
-[https://marskalk.stjarnholm.com](https://marskalk.stjarnholm.com) - Launched in November 2022
+[marskalk.stjarnholm.com](https://marskalk.stjarnholm.com) - Launched in November 2022
 ```
 
 <!-- BAR -->
@@ -55,7 +55,7 @@ A website for the Marskalk app, which is a tool that helps you create name tags 
 
 An upcoming website for drink recipes.
 +++
-[https://bar.stjarnholm.com](https://bar.stjarnholm.com) - Yet to be launched
+[bar.stjarnholm.com](https://bar.stjarnholm.com) - Yet to be launched
 ```
 
 <!-- IFLOAT -->
@@ -64,7 +64,7 @@ An upcoming website for drink recipes.
 
 A website outlining the iFloat project, which consisted of partaking in the Uppsala River Rafting 2022.
 +++
-[https://ifloat.stjarnholm.com](https://ifloat.stjarnholm.com) - Launched in April 2022
+[ifloat.stjarnholm.com](https://ifloat.stjarnholm.com) - Launched in April 2022
 ```
 
 <!-- ```{card} Sigfrid's Personal Website
@@ -72,7 +72,7 @@ A website outlining the iFloat project, which consisted of partaking in the Upps
 
 My personal website with my CV and blog.
 +++
-[https://sigfrid.stjarnholm.com](https://sigfrid.stjarnholm.com)
+[sigfrid.stjarnholm.com](https://sigfrid.stjarnholm.com)
 ``` -->
 
 ## Others, That I Host
@@ -85,7 +85,7 @@ My personal website with my CV and blog.
 
 A website for one of my consulting clients, mentiphy. The website hosts teaching material for physics students in Swedish gymnasium, among other target groups.
 +++
-[https://mentiphy.se](https://mentiphy.se)
+[mentiphy.se](https://mentiphy.se)
 ```
 
 <!-- FROSSARBO -->
@@ -94,7 +94,7 @@ A website for one of my consulting clients, mentiphy. The website hosts teaching
 
 A website for one of my consulting clients, Frossarbo Ängar. The website is for a rental property in the countryside of Uppsala, Sweden.
 +++
-[https://frossarbo.com](https://frossarbo.com)
+[frossarbo.com](https://frossarbo.com)
 ```
 
 <!-- SEQAB -->
@@ -103,7 +103,7 @@ A website for one of my consulting clients, Frossarbo Ängar. The website is for
 
 A website for one of my consulting clients, Stjärnholm Equestrian. The website is for a horse stable in Boden, Sweden.
 +++
-[https://stalls.se](https://stalls.se)
+[stalls.se](https://stalls.se)
 ```
 
 <!-- SMAB -->
@@ -112,7 +112,7 @@ A website for one of my consulting clients, Stjärnholm Equestrian. The website 
 
 A website for one of my consulting clients, Stjärnholm Medical. The website is for a medical consulting company in Boden, Sweden.
 +++
-[https://stjarnholmmedical.se](https://stjarnholmmedical.se)
+[stjarnholmmedical.se](https://stjarnholmmedical.se)
 ```
 
 <!-- SMAHOPP -->
@@ -121,7 +121,7 @@ A website for one of my consulting clients, Stjärnholm Medical. The website is 
 
 A website for one of my consulting clients, Småhopp. The website is for a daycare in Boden, Sweden.
 +++
-[https://smahopp.se](https://smahopp.se)
+[smahopp.se](https://smahopp.se)
 ```
 
 <!-- WILLIAM -->
@@ -130,7 +130,7 @@ A website for one of my consulting clients, Småhopp. The website is for a dayca
 
 My brother's personal website with his CV.
 +++
-[https://william.stjarnholm.com](https://william.stjarnholm.com)
+[william.stjarnholm.com](https://william.stjarnholm.com)
 ```
 
 <!-- ```{card} Sigfrid's Personal Website
@@ -138,5 +138,5 @@ My brother's personal website with his CV.
 
 My personal website with my CV and blog.
 +++
-[https://sigfrid.stjarnholm.com](https://sigfrid.stjarnholm.com)
+[sigfrid.stjarnholm.com](https://sigfrid.stjarnholm.com)
 ``` -->
