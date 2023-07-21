@@ -7,6 +7,7 @@ parts:
   - caption: Tech 👨‍💻
     chapters:
     - file: tech/websites
+    - file: tech/spending
   - caption: Physics 🚀 
     chapters:
     - file: notebooks
