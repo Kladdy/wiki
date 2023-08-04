@@ -8,9 +8,12 @@ parts:
     chapters:
     - file: tech/websites
     - file: tech/spending
-  - caption: Physics 🚀 
+  # - caption: Physics 🚀 
+  #   chapters:
+  #   - file: notebooks
+  - caption: Hobby 🎨
     chapters:
-    - file: notebooks
+    - file: hobby/ring-of-fire
 # chapters:
 # - file: markdown
 # - file: notebooks
