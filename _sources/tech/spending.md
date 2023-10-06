@@ -39,6 +39,12 @@ sources:
 2. Förra månadens faktura finns under "Aktuell" -> "Visa fakturadetaljer" -> "Visa PDF". Tidigare fakturor finns under "Tidigare" -> *välj månad* -> "Visa PDF".
 3. Dela och spara PDF:en i `data/spendwise-evert` (eller motsvarande för andra användare).
 
+### Spendwise2
+
+1. Gå in på [Spendwise-hemsidan](https://secure.sebkort.com/nis/m/sjse/external/t/login/index) och klicka på "Kontoutdrag".
+2. Välj månad och klicka "Exportera till Excel".
+3. Spara Excel-filen i `data/spendwise2-evert` (eller motsvarande för andra användare).
+
 ### Handelsbanken
 
 1. Logga in i Handelsbankens internetbank och gå till "Konton och kort".
