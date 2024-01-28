@@ -6,7 +6,7 @@ Victoria kör uppför en brant backe (35°) med sin bil i hastigheten 60 km/h. P
 
 Vilket är friktionstalet mellan bilen och underlaget när hon glider? Utgå ifrån konstant friktionstal. Rita i bilden ut kraftsituationen.
 
-<img src="./schematic.png" alt="Schematisk bild" width="200"/>
+<img src="./img/schematic.png" alt="Schematisk bild" width="200"/>
 
 ## Lösning
 
