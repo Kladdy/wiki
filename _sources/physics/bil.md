@@ -4,9 +4,7 @@
 
 Victoria kör uppför en brant backe (35°) med sin bil i hastigheten 60 km/h. Plötsligt tappar bilen greppet och börjar glida med låsta hjul. 2,0 s efter att Victoria har börjat glida har hon hastigheten 13 km/h uppför backen.
 
-Vilket är friktionstalet mellan bilen och underlaget när hon glider? Utgå ifrån konstant friktionstal. Rita i bilden ut kraftsituationen.
-
-<img src="./img/schematic.png" alt="Schematisk bild" width="200"/>
+Vilket är friktionstalet mellan bilen och underlaget när hon glider? Utgå ifrån konstant friktionstal. 
 
 ## Lösning
 
