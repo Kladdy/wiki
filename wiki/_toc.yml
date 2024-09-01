@@ -14,6 +14,11 @@ parts:
   - caption: Hobby 🎨
     chapters:
     - file: hobby/ring-of-fire
+  - caption: Starbun ⭐️
+    chapters:
+    - file: starbun/overview
+    - file: starbun/ideas
+    - file: starbun/optimization
 # chapters:
 # - file: markdown
 # - file: notebooks
