@@ -10,6 +10,7 @@ parts:
     - file: tech/spending
   - caption: Physics 🚀 
     chapters:
+    - file: physics/openmc
     - file: physics/bil
   - caption: Hobby 🎨
     chapters:
