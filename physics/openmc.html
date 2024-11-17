@@ -231,7 +231,7 @@ mamba<span class="w"> </span>install<span class="w"> </span>openmc
 
 sudo<span class="w"> </span>conda<span class="w"> </span>install<span class="w"> </span>-y<span class="w"> </span>-n<span class="w"> </span>openmc-env<span class="w"> </span>ipykernel
 
-<span class="nv">hdf5_data_path</span><span class="o">=</span>~/nuclear_data/hdf5/jeff-3.3-hdf5
+<span class="nv">hdf5_data_path</span><span class="o">=</span>~/nuclear_data/hdf5
 mkdir<span class="w"> </span>-p<span class="w"> </span><span class="nv">$hdf5_data_path</span>
 curl<span class="w"> </span>-L<span class="w"> </span>-o<span class="w"> </span>jeff33.tar.xz<span class="w"> </span>https://anl.box.com/shared/static/4jwkvrr9pxlruuihcrgti75zde6g7bum.xz
 tar<span class="w"> </span>-xvf<span class="w"> </span>jeff33.tar.xz<span class="w"> </span>-C<span class="w"> </span><span class="nv">$hdf5_data_path</span>
